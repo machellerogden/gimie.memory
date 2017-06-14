@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/machellerogden/gimie.memory#readme",
   "dependencies": {
-    "bluebird": "^3.5.0",
     "bytes": "^2.5.0"
   }
 }
